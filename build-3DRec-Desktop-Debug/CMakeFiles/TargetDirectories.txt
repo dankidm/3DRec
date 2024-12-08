@@ -1,0 +1,5 @@
+/home/kirill/Projects/3DRec/build-3DRec-Desktop-Debug/CMakeFiles/3DRec.dir
+/home/kirill/Projects/3DRec/build-3DRec-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/kirill/Projects/3DRec/build-3DRec-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/kirill/Projects/3DRec/build-3DRec-Desktop-Debug/CMakeFiles/3DRec_autogen_timestamp_deps.dir
+/home/kirill/Projects/3DRec/build-3DRec-Desktop-Debug/CMakeFiles/3DRec_autogen.dir

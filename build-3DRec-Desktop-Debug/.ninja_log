@@ -1,0 +1,9 @@
+# ninja log v5
+0	285	1733656446158662797	3DRec_autogen/timestamp	ae03a77d4346f878
+0	285	1733656446158662797	3DRec_autogen/mocs_compilation.cpp	ae03a77d4346f878
+0	285	1733656446158662797	/home/kirill/Projects/3DRec/build-3DRec-Desktop-Debug/3DRec_autogen/timestamp	ae03a77d4346f878
+0	285	1733656446158662797	/home/kirill/Projects/3DRec/build-3DRec-Desktop-Debug/3DRec_autogen/mocs_compilation.cpp	ae03a77d4346f878
+285	2903	1733656448783761770	CMakeFiles/3DRec.dir/main.cpp.o	9ed1cbff485796fb
+285	3603	1733656449483787875	CMakeFiles/3DRec.dir/3DRec_autogen/mocs_compilation.cpp.o	c7b6a4fa348faeaf
+286	3978	1733656449857801795	CMakeFiles/3DRec.dir/mainwindow.cpp.o	e635d8f1b9eeb61e
+3978	4992	1733656450867839179	3DRec	f77e3065aab72ada
